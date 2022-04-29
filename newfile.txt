@@ -1,3 +1,4 @@
 hello new file
-This is some text from the main branch
+This is some text from the main branch, This text was added in new feature
 It was added in a text editor
+This text contains more information and possibly more features
